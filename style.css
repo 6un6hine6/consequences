@@ -187,3 +187,105 @@ line-height: normal;
 .rndmchel{
     max-width: 725px;
 }
+.pidaras{
+    display: grid;  
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-top: 40px;
+        gap: 55px;
+}
+.numberimprove{
+    border-bottom: black solid 2px;
+    padding-bottom: 20px;
+    color: #2886EB;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+
+}
+.zhir{
+    margin-top: 34px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px;
+    max-width: 220px;
+    max-height: 65px;
+}
+.tontext{
+    color: #717171;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 120%;
+    margin-top: 15px;
+    max-height: 62px;
+}
+.practice{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #2886EB;
+    border-radius: 20px;
+    background-image: url(img/Star\ 2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: bottom;
+}
+.workshop{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.itindust{
+    color: #FFF;
+    font-family: SF Pro Display;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+.price{
+    color: #16395F;
+    font-family: SF Pro Display;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;  
+}
+.fivek{
+    margin-top: 35px;
+    display: flex;
+    padding: 10px 32px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    background-color: white;
+    border: 0px; 
+
+}
+.credit{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 0px 25px 25px 0px;
+    padding: 40px;
+    background: #0000000A;
+}
+.twenty{
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+color:  #222;
+}
+.vznos{
+color:  #222;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%;
+}
